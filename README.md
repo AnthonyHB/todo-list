@@ -1,2 +1,2 @@
 # todo-list
-My stab at a todo list, possible the most unoriginal project of all web development. Brought me good exposure to JS principles. 
+My stab at a todo list, possibly the most unoriginal project in all of web development. However, I like how it's turning out, and it brought me more needed exposure to JS.
